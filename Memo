@@ -1,0 +1,6 @@
+# Selfie app with kivyMD. (https://www.youtube.com/watch?v=WKD9FSh5tu4)
+# also can refer this link for Camera module written in kivy language 
+##--this application run in vs code with python vertual env###
+> source ~/realpython/kivymd/kivymdvenv/bin/activate  # to activate the python veny
+
+ > buildozer -v android  debug deploy run logcat | grep python
